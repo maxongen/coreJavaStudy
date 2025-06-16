@@ -1,0 +1,19 @@
+     java.util.Collection (Interface)
+                      /       |         \
+                     /        |          \
+                    /         |           \
+                List        Set          Queue
+                 |           |              |
+        ----------------   --------     ---------------
+       |                |  |        |   |             |
+   ArrayList      LinkedList  HashSet TreeSet  PriorityQueue ArrayDeque
+                          |      |
+                    Vector  LinkedHashSet
+
+java.util.Map (Interface)
+         |
+  ---------------------
+  |                   |
+HashMap           TreeMap
+  |
+LinkedHashMap
