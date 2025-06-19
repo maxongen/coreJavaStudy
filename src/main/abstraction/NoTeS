@@ -1,0 +1,11 @@
+Abstraction means hiding implementation from user
+here we can achieve abstraction using abstract class or interface
+we create child class in which we can give reference of parent class using child class and call child class methods
+for example
+we created one interface named MobileParent in which we declared one printModel method
+we implemented this interface to 2 child classes IphoneClass and SamsungClass where we override printModel
+method and added some implementation in it
+now we create another child class MobileChild which has no implement or extend of other class.
+In this class we created reference object.
+The reference of SamsungClass and IphoneClass given to MobileParent one by one and called printModel method.
+When user trying to go to definition to this method it will redirect to interface as we created reference object.
