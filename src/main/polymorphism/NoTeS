@@ -1,0 +1,18 @@
+polymorphism is ability of an object to take many forms. it means same object works in may ways.
+for live example : A person can have multiple roles: a mother, a daughter, a friend, an employee.
+In Polymorphism we have two types
+1. Static Polymorphism which means compile time polymorphism which can be achieved using method overwrite
+2. Dynamic Polymorphism which means runtime polymorphism which can be achieved using method overriding
+
+method overwrite : in same class but having different method signatures
+method override : in different class having same method signature but inline implementation is different
+
+Method Overriding
+in this package we create base class called CarClass having one method carModel,
+where it gets extended by TataCar class which has same overridden method carModel but having different implementation
+now again TataCar gets extended by PunchCar class having same method carModel but different implementation
+at last created ChildCarClass which extends PunchCar so its a multilevel inheritance.
+using CarClass reference we call above all three class methods hence dynamic polymorphism we achieved
+
+Method Overwriting
+in same class ChildCarClass we created method named overWriteMethod having same name but different method signatures.
