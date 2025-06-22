@@ -1,0 +1,12 @@
+Encapsulation is combining the data and methods together to work efficiently.
+it involves bundling data (variables) and the methods that operate on that data into a single unit,
+using encapsulation. we can set and get the data.
+basically encapsulation is setter and getter in the project.
+because of this we can maintain a security for the data like we make variables private and we set and get using encapsulation.
+as variables are private so no one can access it outside of class so either user can set or get but it will not change directly outside of class.
+
+Data Hiding:
+Controlled Access through Methods:
+Data Security and Integrity:
+Modularity and Maintainability:
+Flexibility and Extensibility:
