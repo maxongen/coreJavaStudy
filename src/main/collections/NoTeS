@@ -17,3 +17,9 @@ java.util.Map (Interface)
 HashMap           TreeMap
   |
 LinkedHashMap
+
+
+Interface	Common Classes	Description
+List	ArrayList, LinkedList	Ordered collection that allows duplicates
+Set	HashSet, TreeSet, LinkedHashSet	Collection of unique elements
+Map	HashMap, TreeMap, LinkedHashMap	Stores key-value pairs with unique keys
