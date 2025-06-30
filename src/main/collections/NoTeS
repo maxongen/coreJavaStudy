@@ -23,3 +23,9 @@ Interface	Common Classes	Description
 List	ArrayList, LinkedList	Ordered collection that allows duplicates
 Set	HashSet, TreeSet, LinkedHashSet	Collection of unique elements
 Map	HashMap, TreeMap, LinkedHashMap	Stores key-value pairs with unique keys
+
+Set vs. List
+List	Set
+Allows duplicates	Does not allow duplicates
+Maintains order	Does not guarantee order
+Access by index	No index-based access

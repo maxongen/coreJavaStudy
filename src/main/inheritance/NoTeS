@@ -1,0 +1,6 @@
+inheritance is parent-child relationship between the class.
+inheritance is parent-child relationship between the class.allows a class to inherit properties and behaviors (fields and methods) from another class.
+java supports several types of inheritance.
+using super keyword inheritance achieved.
+java supports single inheritance, multilevel inheritance,hierarchical inheritance.
+using interface java achieve the multiple inheritance
